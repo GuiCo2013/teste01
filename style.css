@@ -7,7 +7,7 @@
 }
 
 #texto{
-background-color: lig;
+background: linear-gradient(red,rgb(255, 136, 0));
 }
 
 #testo{
@@ -15,10 +15,19 @@ background-color: lig;
 }
 
 #body{
-    background: linear-gradient(lightpink,violet);
+    background: linear-gradient(rgb(255, 151, 167),rgb(255, 122, 96));
 }
 
 .foto{
     height: 300px;
     width: 300px;
+}
+
+#nome{
+    color: red;
+}
+
+#perfil{
+    width: 400px;
+    height: 500px;
 }
